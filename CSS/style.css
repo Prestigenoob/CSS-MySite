@@ -1,0 +1,155 @@
+body {
+  background-color: #E5F1E3;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #FCEA90;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #1C658C;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #56A7A7;
+}
+
+hr {
+  border-style: dotted;
+  border-color: #8CC0DE;
+  border-width: 10px;
+  border-bottom: 0;
+  width: 90px;
+}
+
+p {
+  line-height: 2;
+}
+
+a{
+  color: #1C658C;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 10px 0;
+  line-height: 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width:40%;
+  margin: 40px auto 60px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.btn{
+  background: #FCEA90;
+  background-image: linear-gradient(top, #11cdd4, #5099c7);
+  background-image: linear-gradient(to bottom, #11cdd4, #5099c7);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 100px 0;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #FCEA90;
+  line-height: 2;
+  margin-top: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.Tammy {
+  height: 250px;
+  width: 250px;
+  margin: 100px 0;
+}
+
+.gecko {
+  height: 250px;
+  float: right;
+  margin-right: 30px;
+}
+
+.data {
+  height: 250px;
+  width: 250px;
+  float: left;
+  margin-right: 30px;
+}
+
+.hiking {
+  height: 250px;
+  width: 250px;
+  float: left;
+  margin-right: 30px;
+}
+.top-container {
+  background-color: #A0DBDB;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #F9FBFC;
+  padding-bottom: 20px;
+}
+
+.bottom-container {
+  background-color: #56A7A7;
+  padding: 10px 0 5px;
+}
